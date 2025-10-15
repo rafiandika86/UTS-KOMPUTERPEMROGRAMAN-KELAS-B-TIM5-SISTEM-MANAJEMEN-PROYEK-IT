@@ -8,7 +8,7 @@ Nama Anggota Kelompok:
     3. Indra Pratama Pakpahan (G1A025100)
 
 Project Overview:   
-Pada UTS Komputer Pemrograman, diberikan project Studi Kasus berjudul "SISTEM MANAJEMEN PROYEK IT". Program ini membantu untuk memantau proyek, tugas, dan kinerja developer dengan terstruktur.
+Pada UTS Pengantar Pemrograman, diberikan project Studi Kasus berjudul "SISTEM MANAJEMEN PROYEK IT". Program ini membantu untuk memantau proyek, tugas, dan kinerja developer dengan terstruktur.
 
 
 Terdiri dari empat kelas utama:    
