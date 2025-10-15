@@ -17,3 +17,14 @@ Program menyimpan empat data yaitu Tugas, Developer, Proyek, lalu akan di jalank
 - Kelas Developer berfungsi untuk mengelola daftar tugas yang dimiliki seorang developer.     
 - Kelas Proyek mengelola keseluruhan tim pengembang dalam sebuah proyek dan menampilkan status kemajuan setiap developer.
 - Kelas Main berperan sebagai pusat eksekusi program yang menginput data beberapa developer beserta tugasnya.
+
+Pembagian tugas:    
+Sebagai bentuk kerja sama tim dalam pengerjaan proyek ini, setiap anggota kelompok memiliki tanggung jawab dan peran masing-masing dalam menyelesaikan bagian program maupun laporan.
+
+Berikut pembagian tugas perorangan dalam kelompok:
+
+1. Nadhifa Arza Fakhirah (G1A025038) Bertanggung jawab sebagai pembuat laporan, meliputi penyusunan landasan teori dan daftar pustaka serta penjelasan soal dan pembahasan.     
+
+2. Rafi Andika (G1A025038) Berperan sebagai pembuat kode program (coding) yang mengimplementasikan seluruh kelas dan logika program sesuai dengan studi kasus.    
+
+3. Indra Pratama Pakpahan (G1A025038) Membantu dalam pembuatan laporan, meliputi kesimpulan dan saran, serta membuat overview pada readme.    
