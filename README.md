@@ -25,6 +25,6 @@ Berikut pembagian tugas perorangan dalam kelompok:
 
 1. Nadhifa Arza Fakhirah (G1A025038) Bertanggung jawab sebagai pembuat laporan, meliputi penyusunan landasan teori dan daftar pustaka serta penjelasan soal dan pembahasan.     
 
-2. Rafi Andika (G1A025038) Berperan sebagai pembuat kode program (coding) yang mengimplementasikan seluruh kelas dan logika program sesuai dengan studi kasus.    
+2. Rafi Andika (G1A025048) Berperan sebagai pembuat kode program (coding) yang mengimplementasikan seluruh kelas dan logika program sesuai dengan studi kasus.    
 
-3. Indra Pratama Pakpahan (G1A025038) Membantu dalam pembuatan laporan, meliputi kesimpulan dan saran, serta membuat overview pada readme.    
+3. Indra Pratama Pakpahan (G1A025100) Membantu dalam pembuatan laporan, meliputi kesimpulan dan saran, serta membuat overview pada readme.    
